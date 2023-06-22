@@ -1,1 +1,1 @@
-# Snake_game
+Snake game made by using python.
